@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="utf-8">
+<title> Shamurikan </title> 
+<link rel="stylesheet" href="shamurikan.css"></link>
+
+</head>
+
+<body>
+
+<form class="passform" action="shamurikan.html" onsubmit="return passcheck()">
+
+<input style="color: #b0b0b0;" type="password" required id="pass1"/>
+
+</form>
+
+<div id="btn"> </div>
+
+<script>
+var password = "nm";
+
+function passcheck() {
+
+if (document.getElementById("pass1").value != password) {
+alert=("Wrong.");
+return false;
+}
+if (document.getElementById("pass1").value == password) {
+alert=("correct.");
+}
+}
+
+</script>
+
+</body>
+</html>
