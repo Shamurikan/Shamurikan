@@ -65,19 +65,19 @@ width: 27%;
 transform: translate(-50%, -50%);
 }
 
-#img1 {top: 32%; left: 20%;}
+#img1 {top: 35%; left: 20%;}
 
-#img2 {top: 62%; left: 20%;}
+#img2 {top: 63%; left: 20%;}
 
-#img3 {top: 17%; left: 50%;}
+#img3 {top: 20%; left: 50%;}
 
-#img4 {top: 47%; left: 50%;}
+#img4 {top: 49%; left: 50%;}
 
-#img5 {top: 77%; left: 50%;}
+#img5 {top: 78%; left: 50%;}
 
-#img6 {top: 32%; left: 80%;}
+#img6 {top: 35%; left: 80%;}
 
-#img7 {top: 62%; left: 80%;}
+#img7 {top: 63%; left: 80%;}
 
 @keyframes M {
 
