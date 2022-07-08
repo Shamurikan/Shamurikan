@@ -15,20 +15,6 @@ animation: M 1s;
 
 body {background-color: var(--C2);}
 
-h1 {color: white; margin-top: 50px;}
-
-h5 {width: 90%;}
-
-h6 {width: 85%;}
-
-.entrance {
-background-color: var(--C1);
-margin: 7px auto 7px auto;
-font-size: 18px;
-padding: 5px;
-color: white;
-}
-
 form {
 position: absolute;
 top: 40%;
