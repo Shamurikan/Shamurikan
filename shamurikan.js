@@ -58,7 +58,7 @@ window.onscroll = () => {
 
 // frameWork 1
 
-if (scrollY >= div1.offsetTop - 180){
+if (scrollY >= div1.offsetTop - 250){
 
 img1.style.marginTop = "40px";
 img1.style.transition = "1s";
@@ -80,7 +80,7 @@ p1.style.marginTop = "0px";
 
 // frameWork 2
 
-if (scrollY >= div2.offsetTop - 180){
+if (scrollY >= div2.offsetTop - 250){
 
 img2.style.marginTop = "40px";
 img2.style.transition = "1s";
@@ -111,7 +111,7 @@ p2.style.marginTop = "0px";
 
 // frameWork 3
 
-if (scrollY >= div3.offsetTop - 180){
+if (scrollY >= div3.offsetTop - 250){
 
 img3.style.marginTop = "40px";
 img3.style.transition = "1s";
