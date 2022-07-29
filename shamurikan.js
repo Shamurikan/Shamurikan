@@ -142,7 +142,7 @@ p3.style.marginTop = "0px";
 
 // frameWork 4
 
-if (scrollY >= div4.offsetTop - 200){
+if (scrollY >= div4.offsetTop - 250){
 
 img4.style.marginTop = "40px";
 img4.style.transition = "1s";
