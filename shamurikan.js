@@ -1,3 +1,5 @@
+<script>
+
 // Shamurikan 1
 
 const _0x7cbe=["\x6E\x6D","\x70\x61\x73\x73\x31","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x76\x61\x6C\x75\x65"];const password=_0x7cbe[0];const pass1=document[_0x7cbe[2]](_0x7cbe[1]);function passcheck(){if(pass1[_0x7cbe[3]]!= password){return false};if(pass1[_0x7cbe[3]]== password){}}
@@ -61,16 +63,13 @@ window.onscroll = () => {
 if (scrollY >= div1.offsetTop - 250){
 
 img1.style.marginTop = "40px";
-img1.style.transition = "1s";
 
 p1.style.opacity = "1";
-p1.style.transition = "1s";
 p1.style.marginTop = "8px";
 
 } else {
 
 img1.style.marginTop = "70px";
-img1.style.transition = "1s";
 
 p1.style.opacity = "0";
 p1.style.transition = "0.4s";
@@ -83,16 +82,13 @@ p1.style.marginTop = "0px";
 if (scrollY >= div2.offsetTop - 250){
 
 img2.style.marginTop = "40px";
-img2.style.transition = "1s";
 
 p2.style.opacity = "1";
-p2.style.transition = "1s";
 p2.style.marginTop = "8px";
 
 	// smallFrameWork 1
 
 	img1.style.marginTop = "70px";
-	img1.style.transition = "1s";
 
 	p1.style.opacity = "0";
 	p1.style.transition = "0.4s";
@@ -101,7 +97,6 @@ p2.style.marginTop = "8px";
 } else {
 
 img2.style.marginTop = "70px";
-img2.style.transition = "1s";
 
 p2.style.opacity = "0";
 p2.style.transition = "0.4s";
@@ -114,16 +109,13 @@ p2.style.marginTop = "0px";
 if (scrollY >= div3.offsetTop - 250){
 
 img3.style.marginTop = "40px";
-img3.style.transition = "1s";
 
 p3.style.opacity = "1";
-p3.style.transition = "1s";
 p3.style.marginTop = "8px";
 
 	// smallFrameWork 2
 
 	img2.style.marginTop = "70px";
-	img2.style.transition = "1s";
 
 	p2.style.opacity = "0";
 	p2.style.transition = "0.4s";
@@ -132,7 +124,6 @@ p3.style.marginTop = "8px";
 } else {
 
 img3.style.marginTop = "70px";
-img3.style.transition = "1s";
 
 p3.style.opacity = "0";
 p3.style.transition = "0.4s";
@@ -145,16 +136,13 @@ p3.style.marginTop = "0px";
 if (scrollY >= div4.offsetTop - 250){
 
 img4.style.marginTop = "40px";
-img4.style.transition = "1s";
 
 p4.style.opacity = "1";
-p4.style.transition = "1s";
 p4.style.marginTop = "8px";
 
 	// smallFrameWork 3
 
 	img3.style.marginTop = "70px";
-	img3.style.transition = "1s";
 
 	p3.style.opacity = "0";
 	p3.style.transition = "0.4s";
@@ -163,7 +151,6 @@ p4.style.marginTop = "8px";
 } else {
 
 img4.style.marginTop = "70px";
-img4.style.transition = "1s";
 
 p4.style.opacity = "0";
 p4.style.transition = "0.4s";
@@ -173,5 +160,12 @@ p4.style.marginTop = "0px";
 
 // ready img and p
 
+setTimeout( () => {
 img1.classList.add("ready-img");
 p1.classList.add("ready-p");
+}, 1000);
+
+</script>
+
+</body>
+</html>
