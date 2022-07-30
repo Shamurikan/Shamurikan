@@ -1,5 +1,3 @@
-<script>
-
 // Shamurikan 1
 
 const _0x7cbe=["\x6E\x6D","\x70\x61\x73\x73\x31","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x76\x61\x6C\x75\x65"];const password=_0x7cbe[0];const pass1=document[_0x7cbe[2]](_0x7cbe[1]);function passcheck(){if(pass1[_0x7cbe[3]]!= password){return false};if(pass1[_0x7cbe[3]]== password){}}
@@ -164,8 +162,3 @@ setTimeout( () => {
 img1.classList.add("ready-img");
 p1.classList.add("ready-p");
 }, 1000);
-
-</script>
-
-</body>
-</html>
