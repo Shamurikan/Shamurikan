@@ -59,9 +59,7 @@ border-radius: 20px;
 animation: M 1s;
 }
 
-#div4 {
-margin-bottom: 8px;
-}
+#div4 {margin-bottom: 55%;}
 
 /* All Java Script styles for sections */
 
@@ -83,32 +81,6 @@ margin-top: 0px;
 opacity: 1;
 transition: 1s;
 margin-top: 8px;
-}
-
-/* All social media styles */
-
-.boxicons {
-background-color: var(--C1);
-padding: 2px 12px;
-transition: 1s;
-margin: 1px 2.5px;
-}
-
-#Social-media-show, #Social-media-hide{
-all: unset;
-width: 100%;
-padding-top: 50px;
-}
-
-#Social-media-hide{display: none;}
-
-#Social-media-main {
-background-color: var(--C2);
-padding-top: 110px;
-width: 100%;
-margin-bottom: 25px;
-transition: 0.4s;
-opacity: 0;
 }
 
 /* All animations are here */
