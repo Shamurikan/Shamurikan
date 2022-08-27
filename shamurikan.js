@@ -130,19 +130,3 @@ SectionFour[0].classList.add("imageBefore");
 
 SectionFour[1].classList.remove("paragAfter");
 SectionFour[1].classList.add("paragBefre");}};
-
-// SocialMedia Java Script
-
-const SocialMedia = [
-document.getElementById("Social-media-show"),
-document.getElementById("Social-media-hide"),
-document.getElementById("Social-media-main"),
-document.querySelector(".boxicons")];
-SocialMedia[0].onclick = () => {
-SocialMedia[2].style.opacity = "1";
-SocialMedia[0].style.display = "none";
-SocialMedia[1].style.display = "block";}
-SocialMedia[1].onclick = () => {
-SocialMedia[2].style.opacity = "0";
-SocialMedia[0].style.display = "block";
-SocialMedia[1].style.display = "none";}
