@@ -1,7 +1,10 @@
 ```JS
 Frontend languages
 ```
-img(https://cdn-icons-png.flaticon.com/512/174/174854.png
+<img style="width: 40px;" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"/>
+
+<img style="width: 40px;" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"/>
+
 
 __`Hello`__
 
