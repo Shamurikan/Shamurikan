@@ -8,7 +8,7 @@ ____
 ____
 __Backend languages and frameworks__
 ____
-<a href="https://www.w3schools.com/"> None </a>
+<a href="https://www.w3schools.com/"> </a>
 <br/>
 <br/>
 <br/>
