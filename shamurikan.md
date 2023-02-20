@@ -50,7 +50,7 @@ __`DokicloudCollection`__
 
 [`https://yts.mx`](https://yts.mx/)
 
-[`https://www.pirateproxy-bay.com`](https://www.pirateproxy-bay.com/)
+[`https://pirateproxy-bay.com`](https://www.pirateproxy-bay.com/)
 
 
 
