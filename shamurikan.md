@@ -20,6 +20,12 @@ __`DokicloudCollection`__
 
 [`https://hdtoday.tv`](https://hdtoday.tv/)
 
+[`https://moviesjoy.to`](https://moviesjoy.to/)
+
+[`https://myflixer.to`](https://myflixer.to/)
+
+
+
 
 
 
