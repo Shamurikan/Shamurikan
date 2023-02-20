@@ -10,6 +10,8 @@ __`AcceptedCollections`__
 
 [`https://filepursuit.com`](https://filepursuit.com/)
 
+[`https://kisskh.me`](https://kisskh.me/)
+
 <hr/>
 
 __`DokicloudCollection`__
