@@ -2,7 +2,19 @@ __`ScrabingProject`__
 
 > This project for collect all links for watching and downloading and Reading, also subtittel.
 
+<hr/>
+
+__`AcceptedCollections`__
+
+<hr/>
+
+[`https://filepursuit.com`](https://filepursuit.com/)
+
+<hr/>
+
 __`DokicloudCollection`__
+
+<hr/>
 
 [`https://watchtoday.tv`](https://watchtoday.tv/)
 
@@ -26,7 +38,7 @@ __`DokicloudCollection`__
 
 [`https://bflix.to`](https://bflix.to/)
 
-
+<hr/>
 
 
 
