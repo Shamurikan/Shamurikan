@@ -4,7 +4,15 @@ __`ScrabingProject`__
 
 __`DokicloudCollection`__
 
-> [`watchtoday`](https://watchtoday.tv/) [`sflix`](https://sflix.to/) [`goku`](https://goku.to/) [`himovies`](https://www5.himovies.to/) [`movie1234`](https://movie1234.xyz/)
+[`https://watchtoday.tv`](https://watchtoday.tv/)
+
+[`https://sflix.to`](https://sflix.to/)
+
+[`https://goku.to`](https://goku.to/)
+
+[`https://himovies.to`](https://www5.himovies.to/)
+
+[`https://movie1234.xyz`](https://movie1234.xyz/)
 
 
 
