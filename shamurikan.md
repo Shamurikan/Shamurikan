@@ -46,6 +46,16 @@ __`DokicloudCollection`__
 
 <hr/>
 
+__`DokicloudCollection`__
+
+[`https://yts.mx`](https://yts.mx/)
+
+[`https://www.pirateproxy-bay.com`](https://www.pirateproxy-bay.com/)
+
+
+
+<hr/>
+
 __`ProjectTwo`__
 
 <hr/>
