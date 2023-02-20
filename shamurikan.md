@@ -1,13 +1,10 @@
 __`ScrabingProject`__
 
 > This project for collect all links for watching and downloading and Reading, also subtittel.
->> [`know`](
 
-[https://watchtoday.tv/](https://watchtoday.tv/)
+__`DokicloudCollection`__
 
-[https://sflix.to/](https://sflix.to/)
-
-[https://goku.to/](https://goku.to/)
+> [`watchtoday`](https://watchtoday.tv/) [`sflix`](https://sflix.to/) [`goku`](https://goku.to/)
 
 __`ProjectTwo`__
 
