@@ -4,13 +4,12 @@
 
 ---
 
-
-
-
-
 ```JS
 console.log("Hello world to shamurikan");
 ```
 
+---
+
+> __`HTML` `CSS` `JavaScript`__
 
 
