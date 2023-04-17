@@ -12,4 +12,13 @@ console.log("Hello world to shamurikan");
 
 __`HTML` `CSS` `JavaScript`__
 
+---
 
+```JS
+let x = document.querySelectorAll('.panel-body a')[0].href;
+
+let y = document.getElementsByTagName('iframe')[0].src;
+
+```
+
+---
