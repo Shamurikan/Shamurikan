@@ -22,3 +22,9 @@ let y = document.getElementsByTagName('iframe')[0].src;
 ```
 
 ---
+
+YouTube Codes `maxres` `embed`.
+
+I want to get hacking the links.
+
+___
