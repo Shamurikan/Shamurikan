@@ -1,3 +1,2 @@
-```
-[__w3schools.com__](https://w3schools.com/)
-```
+[```w3schools.com```](https://w3schools.com/)
+
