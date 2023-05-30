@@ -2,6 +2,25 @@
 
 const _0x7cbe=["\x6E\x6D","\x70\x61\x73\x73\x31","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x76\x61\x6C\x75\x65"];const password=_0x7cbe[0];const pass1=document[_0x7cbe[2]](_0x7cbe[1]);function passcheck(){if(pass1[_0x7cbe[3]]!= password){return false};if(pass1[_0x7cbe[3]]== password){}}
 
+// Change the display.
+
+function displayNone(element) {
+	element.style.transition = "0.4s"
+	element.style.opacity = "0"
+	setTimeout(() => {
+		element.style.display = "none"
+	}, 400)
+}
+
+function displayBlock(element) {
+	element.style.opacity = "0"
+	element.style.display = "block"
+	setTimeout(() => {
+		element.style.transition = "0.4s"
+		element.style.opacity = "1"
+	}, 400)
+}
+
 // Get Elements Class
 
 document.querySelectorAll("#shamurikan img").forEach( (item) => {item.classList.add("images");});
@@ -13,6 +32,8 @@ document.querySelectorAll("#shamurikan div").forEach( (item) => {item.classList.
 document.querySelectorAll("#shamurikan i").forEach( (item) => {item.classList.add("boxicons");});
 
 // THE READY IMAGE AND PARAG
+
+displayBlock(document.body)
 
 setTimeout( () => {
 document.getElementById("img1").classList.add("imageAfter");
@@ -130,3 +151,12 @@ SectionFour[0].classList.add("imageBefore");
 
 SectionFour[1].classList.remove("paragAfter");
 SectionFour[1].classList.add("paragBefre");}};
+
+// inner local storage function.
+
+function innerLocalStorage(main, key) {
+	// Save in local storage.
+  localStorage.setItem(key, JSON.stringify(main))
+	// Get from local storage.
+	main = JSON.parse(localStorage.getItem(key))
+}
