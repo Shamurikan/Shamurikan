@@ -1,4 +1,4 @@
-> IMG16(https://www.gstatic.com/lamda/images/sparkle_resting_v2_darkmode_2bdb7df2724e450073ede.gif) [__Google Bard__](https://bard.google.com/?hl=en) is one of the best artificial intelligence websites from Google development.
+> [alt](https://www.gstatic.com/lamda/images/sparkle_resting_v2_darkmode_2bdb7df2724e450073ede.gif) [__Google Bard__](https://bard.google.com/?hl=en) is one of the best artificial intelligence websites from Google development.
 
 > IMG16(https://upload.wikimedia.org/wikipedia/commons/9/98/Google_Families.svg) [__Family Link__](https://familylink.google.com/) is a website for parental control is also from Google development.
 
