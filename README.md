@@ -18,4 +18,4 @@ ___
 
 > [__opensubtitles__](https://www.opensubtitles.org/ar) is the best website to download subtitles files.
 
-> [__1337x__](https://1337x.to/home/) is a website to download torrent files.
+> [__1337x__](https://1337x.to/home/) is a website to download a lot of kinds of torrent files.
