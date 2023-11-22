@@ -8,11 +8,11 @@ ___
 
 > [__FilePursuit__](https://filepursuit.com/) is a website to Search the web for files, videos, audios, eBooks & much more.
 
-> [__Seedr__](https://www.seedr.cc/) is a website to open torrents files for free and more.
-
 > [__SubsPlease__](https://subsplease.org/) about me this is the best website for anime torrent files.
 
-<a style="text-decoration: none;" src="https://google.com">hello</a>
+> [__Seedr__](https://www.seedr.cc/) is a website to open torrents files for free and more.
+
+___
 
  [ ~~~ IMG90(https://chiaki.site/media/logo.png) ~~~ ](https://chiaki.site/)
 
