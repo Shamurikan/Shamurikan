@@ -1,6 +1,6 @@
 > [__Google Bard__](https://bard.google.com/?hl=en) is an artificial intelligence from Google development.
 
-> [__W3schools__](https://www.w3schools.com/) is a website to learn programming languages.
+> [__W3schools__](https://www.w3schools.com/) is a website to learn programming languages and frameworks.
 
 
 
