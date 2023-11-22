@@ -1,5 +1,11 @@
 > [__Google Bard__](https://bard.google.com/?hl=en) is an artificial intelligence from Google development.
 
+> [__W3schools__](https://www.w3schools.com/) is a website to learn programming languages.
+
+
+
+
+
 > [__FilePursuit__](https://filepursuit.com/) is a website to Search the web for files, videos, audios, eBooks & much more.
 
 > [__Seedr__](https://www.seedr.cc/) is a good website to open torrents files for free, and there is Bitport also to open torrents files.
