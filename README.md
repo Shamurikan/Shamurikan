@@ -10,12 +10,12 @@ ___
 
 > [__SubsPlease__](https://subsplease.org/) about me this is the best website for anime torrent files.
 
-> [__Seedr__](https://www.seedr.cc/) is a website to open torrents files for free and more.
+> [__Seedr__](https://www.seedr.cc/) is a website to open torrent files for free and more.
 
 ___
 
- [ ~~~ IMG90(https://chiaki.site/media/logo.png) ~~~ ](https://chiaki.site/)
+> [__Chiaki__](https://chiaki.site/) is a website provides you with organized lists to watch the anime.
 
-___
+> [__opensubtitles__](https://www.opensubtitles.org/ar) is the best website to download subtitles files.
 
-__~~~ [`podnapisi`](https://www.podnapisi.net/) • [`subdl`](https://subdl.com/) • [`opensubtitles`](https://www.opensubtitles.org/ar) • [`1337x`](https://1337x.to/home/) [`subscene`](https://subscene.com/) • [`subtitlist`](https://www.subtitlist.com/) • [`yts subs`](https://yts-subs.com/) ~~~ __
+> [__1337x__](https://1337x.to/home/) is a website to download torrent files.
