@@ -8,7 +8,7 @@ ___
 
 > [__FilePursuit__](https://filepursuit.com/) is a website to Search the web for files, videos, audios, eBooks & much more.
 
-> [__Seedr__](https://www.seedr.cc/) is a good website to open torrents files for free, and there is Bitport also to open torrents files.
+> [__Seedr__](https://www.seedr.cc/) is a website to open torrents files.
 
 > [__SubsPlease__](https://subsplease.org/) about me this is the best website for anime torrent files.
 
