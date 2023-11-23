@@ -6,7 +6,7 @@
 
 ___
 
-> [__FilePursuit__](https://filepursuit.com/) is a website to Search the web for files, videos, audios, eBooks & much more.
+> [__FilePursuit__](https://filepursuit.com/) is a website to Search for files, videos, audios, eBooks & much more.
 
 > [__SubsPlease__](https://subsplease.org/) about me this is the best website for anime torrent files.
 
