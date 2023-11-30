@@ -1,11 +1,10 @@
-# Introduction 🖐️
+## Introduction 🖐️
 > Hello there, this is Shamurikan and welcome to my profile, here you can see my skills and my preferences, and also you can see my progress in some fields.
 
-# Developing websites🧑‍💻
+## Developing websites🧑‍💻
+> Website development is the process of building and maintaining digital spaces on the internet.
 
-
-
-
+- ### Front-End developing
 
 
 
