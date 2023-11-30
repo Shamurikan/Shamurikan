@@ -6,7 +6,7 @@
 
 ## My Ambitions 🎯
 > - Full-Stack developer
-> - applcation developer
+> - Applications developer
 > - Games developer
 > - UI/UX Designer
 
