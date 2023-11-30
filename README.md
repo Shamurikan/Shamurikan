@@ -1,3 +1,15 @@
+# Introduction 🖐️
+> Hello there, this is Shamurikan and welcome to my profile, here you can see my skills and my preferences, and also you can see my progress in some fields.
+
+
+
+
+
+
+
+
+
+
 > [__Google Bard__](https://bard.google.com/?hl=en) is an artificial intelligence from Google development.
 
 > [__W3schools__](https://www.w3schools.com/) is a website to learn programming languages and frameworks.
