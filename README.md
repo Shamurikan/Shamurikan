@@ -5,10 +5,10 @@
 > I am Front-End developer currently and i want to be Back-End developer either,I typically program using markup languages and JavaScript - i still learning it - and i don not use any frameworks yet.
 
 ## My Ambitions 🎯
-- Full-Stack developer
-- applcation developer
-- Games developer
-- UI/UX Designer
+> - Full-Stack developer
+> - applcation developer
+> - Games developer
+> - UI/UX Designer
 
 ---
 
