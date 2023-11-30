@@ -2,7 +2,7 @@
 > Hello there, this is Shamurikan and welcome to my profile, here you can see my skills and my preferences, and also you can see my progress in some fields.
 
 ## Developing websites🧑‍💻
-> I am a Front-End developer currently and i want to be a Back-End developer either,I typically program using markup languages and JavaScript - i still learning it - and i don not use any frameworks yet.
+> I'm currently a front-end developer and want to become a back-end developer too, I usually program using markup languages ​​and JavaScript - which I'm still learning - and I don't use any frameworks yet.
 
 ## My Ambitions 🎯
 > - Full-Stack developer
