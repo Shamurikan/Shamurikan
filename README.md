@@ -1,8 +1,8 @@
 ## Introduction 🖐️
-> Hello there, this is Shamurikan and welcome to my profile, here you can see my skills and my preferences, and also you can see my progress in some fields.
+Hello there, this is Shamurikan and welcome to my profile, here you can see my skills and my preferences, and also you can see my progress in some fields.
 
 ## Developing websites🧑‍💻
-> I'm currently a front-end developer and want to become a back-end developer too, I usually program using markup languages ​​and JavaScript - which I'm still learning - and I don't use any frameworks yet.
+I'm currently a front-end developer and want to become a back-end developer too, I usually program using markup languages ​​and <img width="12px" src="https://github.com/Shamurikan/Shamurikan/blob/c90855c041e6e2adf0c1f4d94bed75ae79d4f9f9/images/IMG_5082.png?raw=true"/> `JavaScript` - which I'm still learning - and I don't use any frameworks yet.
 
 ## My Ambitions 🎯
 > - Full-Stack developer
