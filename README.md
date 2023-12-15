@@ -18,4 +18,6 @@ I'm currently a front-end developer and want to become a back-end developer too,
 
 > [__GITHUB__](https://github.com/) is a website provides you with software learning tracks.
 
+> [__IMDB__](https://imdb.com/) is a website provides you with software learning tracks.
+
 > [__ANILIST__](https://anilist.co/) is a website provides you with software learning tracks.
