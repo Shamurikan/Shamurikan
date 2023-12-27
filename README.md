@@ -1,4 +1,13 @@
-<img src="42A30273-CC03-4064-9ED2-47DA3F4AC752.png"/>
+<!DOCTYPE html>
+<html>
+  <head>
+
+  </head>
+  <body>
+    <img src="images/42A30273-CC03-4064-9ED2-47DA3F4AC752.png"/>
+  </body>
+
+
 ## Introduction 🖐️
 Hello there, this is Shamurikan and welcome to my profile, here you can see my skills and my preferences, and also you can see my progress in some fields.
 
