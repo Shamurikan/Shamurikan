@@ -1,3 +1,4 @@
+<img src="42A30273-CC03-4064-9ED2-47DA3F4AC752.png"/>
 ## Introduction 🖐️
 Hello there, this is Shamurikan and welcome to my profile, here you can see my skills and my preferences, and also you can see my progress in some fields.
 
