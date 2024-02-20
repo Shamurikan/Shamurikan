@@ -10,7 +10,7 @@
       <div>
         <article>
           <h1>Introduction</h1>
-          <p>Hello there, this is Shamurikan and welcome to my profile, here you can see my skills and my preferences, and also you can see my progress in some fields.</p>
+          <p>Hello there, this is Shamurikan and welcome to my profile where you should find my achievements and skils here, but unfortunately I don't have any 😅.</p>
           <p>— <strong>Become a full-stack website developer</strong>
 
 > Website development is one of the easiest development paths you can take. [`read more`](https://www.w3schools.com/)
