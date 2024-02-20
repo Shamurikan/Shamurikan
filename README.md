@@ -11,7 +11,7 @@
         <article>
           <h1>Introduction</h1>
           <p>Hello there, this is Shamurikan and welcome to my profile where you should find my achievements and skils here, but unfortunately I don't have any 😅.</p>
-          <p>— <strong>Become a full-stack website developer</strong>
+          <p>I often use this page to link to sites I'm interested in, so it probably won't help you.</strong>
 
 > Website development is one of the easiest development paths you can take. [`read more`](https://www.w3schools.com/)
 
