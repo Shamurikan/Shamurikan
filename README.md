@@ -11,6 +11,7 @@
         <article>
           <h1>Introduction</h1>
           <p>Hello there, this is Shamurikan and welcome to my profile where you should find my achievements and skils here, but unfortunately I don't have any.</p>
-          <p>I often use this page to link to sites I'm interested in, so it probably won't help you.</strong>
+          <p>I often use this page to link to sites I'm interested in, so it probably won't help you.</p>
+          <p> 1. <a href="https://replit.com">replit.com</a></p>
   </body>
 </html>
