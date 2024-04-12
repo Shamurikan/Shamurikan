@@ -5,7 +5,7 @@
   <body>
     <section>
       <div>
-        <a href="https://shamurikan.github.io/Informations/gate.pdf/"><img src="images/42A30273-CC03-4064-9ED2-47DA3F4AC752.png"/></a>
+        <a href="https://shamurikan.github.io/Informations/gate.pdf"><img src="images/42A30273-CC03-4064-9ED2-47DA3F4AC752.png"/></a>
       </div>
       <div>
         <article>
