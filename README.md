@@ -5,7 +5,7 @@ Hello there, and welcome to my profile! This is Shamurikan.
 > [!NOTE]
 > **web marks** *noun, plural* — digital indicators or saved references that mark and allow quick return to specific web locations.
         <a href="https://github.com/"><img src="images/42A30273-CC03-4064-9ED2-47DA3F4AC752.png"/></a>
-Digital indicators or saved references that mark specific locations within the vast network of the internet.
+Digital pointers or stored links that highlight distinct positions across the extensive structure of the internet.
 
 <h1>Video settings</h1>
 
