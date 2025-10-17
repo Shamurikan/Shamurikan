@@ -1,11 +1,11 @@
-<h1> シャムリカン </h1>
+<h1> Notae Retis </h1>
 Hello there, and welcome to my profile! This is Shamurikan.
 <br/> <br/>
 
 > [!NOTE]
-> All my accounts is private and invisible because i don't post any type of content. While this might change in the future, so it probably won't help you.
+> web marks noun, plural — digital indicators or saved references that mark and allow quick return to specific web locations.
         <a href="https://github.com/"><img src="images/42A30273-CC03-4064-9ED2-47DA3F4AC752.png"/></a>
-here you can find my tracking websites like <a href="https://anilist.co/">AniList</a> for tracking anime and manga and there is <a href="https://m.imdb.com/">IMDb</a> to tracking movies and series.
+Digital indicators or saved references that mark specific locations within the vast network of the internet. They serve as personal signposts, allowing users to quickly return to important or frequently visited web pages. In essence, web marks act like intellectual breadcrumbs—traces left to navigate the endless web of information efficiently and purposefully.
 
 <h1>Video settings</h1>
 
