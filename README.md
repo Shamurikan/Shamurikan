@@ -7,13 +7,6 @@ Hello there, and welcome to my profile! This is Shamurikan.
         <a href="https://github.com/"><img src="images/42A30273-CC03-4064-9ED2-47DA3F4AC752.png"/></a>
 Digital pointers or stored links that highlight distinct positions across the extensive structure of the internet.
 
-<h1>Video settings</h1>
-
-```JS
-style,Arial,93.8,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.0,0,2,0,0,75,1
-```
-> SoftSub UltraGear 27GN650: 84px as font size, 14px as vertical margin
-
 # [FFmpeg](https://ffmpeg.org/) a complete, cross-platform solution to record, convert and stream audio and video.
 
 
