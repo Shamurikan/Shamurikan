@@ -4,7 +4,7 @@ Hello there, and welcome to my profile! This is Shamurikan.
 
 > [!NOTE]
 > **web marks** *noun, plural* — digital indicators or saved references that mark and allow quick return to specific web locations.
-        <a href="https://github.com/"><img src="images/42A30273-CC03-4064-9ED2-47DA3F4AC752.png"/></a>
+        <a href="https://github.com/"><img src="images/IMG_3655.jpeg"/></a>
 Digital pointers or stored links that highlight distinct positions across the extensive structure of the internet.
 
 # [FFmpeg](https://ffmpeg.org/) a complete, cross-platform solution to record, convert and stream audio and video.
