@@ -40,6 +40,13 @@ ffmpeg -i video.mp4 -vf "subtitles=subtitle_file.srt" -crf 1 output.mkv
 
 ## Anatomy
 
+> [!NOTE]
+> In biomedical sciences, anatomy is the branch of biology and medicine that studies the structure of organisms and their parts, focusing on the morphology, organization, and spatial relationships of bodily components at macroscopic and microscopic levels.
+
+**Online Websites:**
+
+[BioDigital](https://www.biodigital.com/)
+
 **YouTube Channels:**
 
 ✦ [Dr. Ayman Khanfour](https://m.youtube.com/@Dr.Ayman_khanfour)
@@ -48,11 +55,21 @@ ffmpeg -i video.mp4 -vf "subtitles=subtitle_file.srt" -crf 1 output.mkv
 
 ## Histology
 
+> [!NOTE]
+> In biomedical science, histology is the branch of anatomy and biology that studies the microscopic structure of cells, tissues, and organs, and the way these structures relate to their functions. It bridges anatomy (structure) and physiology (function) by showing how cellular and tissue organization underpins physiological processes.
+
+**Online Websites:**
+
 **YouTube Channels:**
 
 [Dr. Iman Nabil](https://m.youtube.com/@dr.imannabil)
 
 ## Physiology
+
+> [!NOTE]
+> In scientific and medical terms, physiology is the branch of biology that investigates the mechanisms by which living systems function — from molecular and cellular processes to the coordination of organ systems — aiming to explain how organisms maintain homeostasis, adapt to change, and sustain life.
+
+**Online Websites:**
 
 **YouTube Channels:**
 
@@ -64,6 +81,8 @@ ffmpeg -i video.mp4 -vf "subtitles=subtitle_file.srt" -crf 1 output.mkv
 
 ## Biochemistry
 
+**Online Websites:**
+
 **YouTube Channels:**
 
 ✦ [Osmosis](https://m.youtube.com/@osmosis)
@@ -72,9 +91,13 @@ ffmpeg -i video.mp4 -vf "subtitles=subtitle_file.srt" -crf 1 output.mkv
 
 ## Human Genetics
 
+**Online Websites:**
+
 **YouTube Channels:**
 
 ## Microbiology
+
+**Online Websites:**
 
 **YouTube Channels:**
 
@@ -86,15 +109,21 @@ ffmpeg -i video.mp4 -vf "subtitles=subtitle_file.srt" -crf 1 output.mkv
 
 ## Pathology
 
+**Online Websites:**
+
 **YouTube Channels:**
 
 [Kevin Mangum, D.O.](https://m.youtube.com/@kevinmangum5340)
 
 ## Immunology
 
+**Online Websites:**
+
 **YouTube Channels:**
 
 ## Pharmacology
+
+**Online Websites:**
 
 [DrugBank](https://go.drugbank.com)
 
@@ -106,6 +135,8 @@ ffmpeg -i video.mp4 -vf "subtitles=subtitle_file.srt" -crf 1 output.mkv
 
 ## Embryology
 
+**Online Websites:**
+
 **YouTube Channels:**
 
 [Ahmed Farid](https://m.youtube.com/@ahmedfarid2010)
@@ -116,11 +147,15 @@ ffmpeg -i video.mp4 -vf "subtitles=subtitle_file.srt" -crf 1 output.mkv
 
 ## Objective Structured Clinical Examination (OSCE)
 
+**Online Websites:**
+
 ✦ [Geeky Medics](https://geekymedics.com)
 
 **YouTube Channels:**
 
 ## Problem-Based Learning (PBL)
+
+**Online Websites:**
 
 **YouTube Channels:**
 
